@@ -10,4 +10,4 @@ This repository contains all of my CTF write-ups and important notes that could 
 | FindIT CTF 2023  | HaallooKack   | [WriteUp](FindIT%20CTF%202023/)         |
 | Gemastik CTF 2024 Qual    | HCS - Murid Mentor       | [WriteUp](./GemastikQuals2024/HCS%20-%20murid%20mentor_WU.pdf) |
 | CyberGON CTF 2024         | Heroes Cyber Security    |           |
-| World Wide CTF 2024       | Heroes Cyber Security    |           |
+| World Wide CTF 2024       | Heroes Cyber Security    | [WriteUp](./WorldWideCTF2024/) |
