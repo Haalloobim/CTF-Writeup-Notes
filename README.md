@@ -1,5 +1,13 @@
 # CTF Writeups
-## 2023 
-- [ARA CTF 2023](/ARA%20CTF%202023/)
-- [Unity CTF 2023](/UNITY%20CTF%202023/)
-- [FindIT CTF 2023](/FindIT%20CTF%202023/)
+This repository contains all of my CTF write-ups and important notes that could be useful for my future CTF competitions or tasks. I actively participate in both national and international CTF competitions. The content of this repository is written in Indonesian for national competitions and in English for international ones. I hope you find it helpful. Enjoy exploring ^^
+
+## CTF Competition List 
+
+| Event Name       | Team          | WriteUp Link                            |
+| ---------------- | ------------- | --------------------------------------- |
+| ARA CTF 2023     | HaallooKack   | [WriteUp](ARA%20CTF%202023/)            |
+| Unity CTF 2023   | HaallooKack   | [WriteUp](UNITY%20CTF%202023/)          |
+| FindIT CTF 2023  | HaallooKack   | [WriteUp](FindIT%20CTF%202023/)         |
+| Gemastik CTF 2024 Qual    | HCS - Murid Mentor       | [WriteUp](./GemastikQuals2024/HCS%20-%20murid%20mentor_WU.pdf) |
+| CyberGON CTF 2024         | Heroes Cyber Security    |           |
+| World Wide CTF 2024       | Heroes Cyber Security    |           |
