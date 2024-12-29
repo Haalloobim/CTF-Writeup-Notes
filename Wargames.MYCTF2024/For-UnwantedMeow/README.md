@@ -3,7 +3,7 @@
 ## By: Haaloobim as [HCS](https://ctftime.org/team/70159)
 
 ## Description 
-1. Scenario: 
+1. Desc: 
 Uh.. Oh.. Help me, I just browsing funny cats memes, when I click download cute cat picture, the file that been download seems little bit wierd. I accidently run the file making my files shredded. Ughh now I hate cat meowing at me.
 
 2. Tools:
