@@ -21,9 +21,6 @@ Uh.. Oh.. Help me, I just browsing funny cats memes, when I click download cute 
 - After noticing that we have to remove all of the `b'meow'` bytes in that file, and that i make a python script to remove that bytes 
 
 
-    <details>
-    <summary>Remove Meow Script</summary>
-
     ```python
     file = open("flag.shredded", "rb").read()
 
@@ -32,8 +29,6 @@ Uh.. Oh.. Help me, I just browsing funny cats memes, when I click download cute 
     with open("flag3.png", "wb") as filetochange:
         filetochange.write(modFile)
     ```
-    </details>
-    <br>
 - Then, when we run that script, we can recover the image but still broken like this
 
     ![](./src/flag1.png)
