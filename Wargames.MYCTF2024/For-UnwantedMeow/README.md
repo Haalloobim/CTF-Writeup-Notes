@@ -16,30 +16,30 @@ Uh.. Oh.. Help me, I just browsing funny cats memes, when I click download cute 
 
 - We've been provided with a .shredded file. According to the description, it should be an image file, but something seems to have changed in its file structure. So we open the .shredded file with [HexEdit](https://hexed.it/) and found out that `b'meow'` bytes is spreaded accross the file 
 
-![](./src/meow.png)
+    ![](./src/meow.png)
 
 - After noticing that we have to remove all of the `b'meow'` bytes in that file, and that i make a python script to remove that bytes 
 
 
-<details>
-<summary>Remove Meow Script</summary>
+    <details>
+    <summary>Remove Meow Script</summary>
 
-```python
-file = open("flag.shredded", "rb").read()
+    ```python
+    file = open("flag.shredded", "rb").read()
 
-modFile = file.replace(b"meow", b"")
+    modFile = file.replace(b"meow", b"")
 
-with open("flag3.png", "wb") as filetochange:
-    filetochange.write(modFile)
-```
-</details>
-
+    with open("flag3.png", "wb") as filetochange:
+        filetochange.write(modFile)
+    ```
+    </details>
+    <br>
 - Then, when we run that script, we can recover the image but still broken like this
 
-![](./src/flag1.png)
+    ![](./src/flag1.png)
 
 - We notice that the script cant remove the meow on the middle of the file, then we decided to proceed manually using hexedit and get this fully recovered image. 
 
-![](./src/flag.png)
+    ![](./src/flag.png)
 
 #### Flag: `WGMY{4a4be40c96ac6314e91d93f38043a634}`
