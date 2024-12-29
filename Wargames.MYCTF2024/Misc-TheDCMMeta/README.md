@@ -1,4 +1,4 @@
-# [ WriteUp/Notes ] |Unwaned Meow  | Forensic - Wargames.MY CTF 2024
+# [ WriteUp/Notes ] | The DCM Meta | Misc - Wargames.MY CTF 2024
 
 ## By: Haaloobim as [HCS](https://ctftime.org/team/70159)
 
@@ -7,10 +7,10 @@
 [25, 10, 0, 3, 17, 19, 23, 27, 4, 13, 20, 8, 24, 21, 31, 15, 7, 29, 6, 1, 9, 30, 22, 5, 28, 18, 26, 11, 2, 14, 16, 12]
 
 2. Tools:
-- -
+- none
 
 3. File: 
-- [cchallenge.dcm](./src/challenge.dcm)
+- [challenge.dcm](./src/challenge.dcm)
 
 ## How to solve? 
 

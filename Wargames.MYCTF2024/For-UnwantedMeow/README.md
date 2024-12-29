@@ -1,4 +1,4 @@
-# [ WriteUp/Notes ] |Unwaned Meow  | Forensic - Wargames.MY CTF 2024
+# [ WriteUp/Notes ] | Unwanted Meow | Forensic - Wargames.MY CTF 2024
 
 ## By: Haaloobim as [HCS](https://ctftime.org/team/70159)
 
