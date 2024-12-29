@@ -11,7 +11,8 @@ There's no flag in the movie, but there is a slash flag on the server
 (Please do not perform any brute forcing, enumeration, or scanning. Not useful nor needed)
 
 2. Tools:
-- none
+- [pyinstxtractor](https://pyinstxtractor-web.netlify.app/) 
+- [PyLingual](https://pylingual.io/)
 
 3. File: 
 - [stones.whatdis](./src/stones.whatdis)
