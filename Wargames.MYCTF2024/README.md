@@ -1,6 +1,6 @@
 # Wargames MyCTF 2024 
 
-## By: Haaloobim as [HCS](https://ctftime.org/team/70159) 
+## By: Haalloobim as [HCS](https://ctftime.org/team/70159) 
 
 ## Description 
 

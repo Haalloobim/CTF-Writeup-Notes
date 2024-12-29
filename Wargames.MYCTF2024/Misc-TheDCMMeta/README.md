@@ -1,6 +1,6 @@
 # [ WriteUp/Notes ] | The DCM Meta | Misc - Wargames.MY CTF 2024
 
-## By: Haaloobim as [HCS](https://ctftime.org/team/70159)
+## By: Haalloobim as [HCS](https://ctftime.org/team/70159)
 
 ## Description 
 1. Desc: 
