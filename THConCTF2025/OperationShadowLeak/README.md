@@ -1,4 +1,4 @@
-# [ WriteUp/Notes ] One Click  | Forensic - THCon CTF 2025 
+# [ WriteUp/Notes ] Operation Shadow Leak  | Forensic - THCon CTF 2025 
 
 ## By: Haaloobim as [HCS](https://ctftime.org/team/70159)
 
