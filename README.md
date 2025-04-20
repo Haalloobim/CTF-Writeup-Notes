@@ -12,4 +12,5 @@ This repository contains all of my CTF write-ups and important notes that could 
 | CyberGON CTF 2024         | Heroes Cyber Security    | [WriteUp](./CyberGon2024/README.md)                            |
 | World Wide CTF 2024       | Heroes Cyber Security    | [WriteUp](./WorldWideCTF2024/)                                 |
 | Wargames.MYCTF2024        | Heroes Cyber Security    | [WriteUp](./Wargames.MYCTF2024/)                               |
-| THCon CTF 2025       | Heroes Cyber Security    | [WriteUp](./THConCTF2025/)                               |
+| THCon CTF 2025            | Heroes Cyber Security    | [WriteUp](./THConCTF2025/)                                     |
+| Dawg CTF 2025             | Heroes Cyber Security    | [WriteUp](./DawgCTF2025/)                                      |
